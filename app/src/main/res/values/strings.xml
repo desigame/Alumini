@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Jawahar Navodaya Alumini</string>
+    <string name="title_activity_launch_url">LaunchUrl</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">User Name OR Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="description">Plateform to connect JNV Alumini to help each other and grow and do something for society well being
+    It is Beta version, will soon come with full edition.Please if you found any bug ,Report US</string>
+    <string name="jnv_name">JNV Name</string>
+    <string name="year_of_join">Year OF Joining</string>
+    <string name="profession">Profession</string>
+    <!-- Spinner data  -->
+    <string-array name="jnv_name">
+        <item>              JNV Shivpuri</item>
+        <item>              JNV Gwalior</item>
+        <item>              JNV Tekamgarh</item>
+        <item>              JNV Delhi</item>
+    </string-array>
+    <string-array name="year_of_joining">
+        <item>1985</item>
+        <item>1986</item>
+        <item>1987</item>
+        <item>1988</item>
+    </string-array>
+    <string-array name="profession">
+        <item>Administration</item>
+        <item>Banking</item>
+        <item>Doctor</item>
+        <item>Engineer</item>
+        <item>Finance and Accounts</item>
+    </string-array>
+    <string name="title_activity_contact_us">ContactUsActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+</resources>
